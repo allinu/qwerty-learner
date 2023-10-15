@@ -2203,6 +2203,17 @@ export const dictionaryResources: DictionaryResource[] = [
   //   length: 20,
   //   language: 'ja',
   // },
+  {
+    id: 'my_own',
+    name: '基础英文自用',
+    description: '自用学习词典',
+    category: '英语学习',
+    tags: ['基础'],
+    url: '/dicts/OWN.json',
+    length: 177,
+    language: 'en',
+    languageCategory: 'en',
+  },
 ]
 
 export const dictionaries: Dictionary[] = dictionaryResources.map((resource) => ({

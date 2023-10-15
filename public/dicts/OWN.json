@@ -1,0 +1,1064 @@
+[
+    {
+        "name": "house",
+        "trans": [
+            "n. 房屋,住宅;家,住处 v. 提供住宿"
+        ]
+    },
+    {
+        "name": "home",
+        "trans": [
+            "n. 家,住宅,家乡,故乡,国内 ad. 在家,回家 a. 家庭的,家属的"
+        ]
+    },
+    {
+        "name": "family",
+        "trans": [
+            "n. 家庭,家族,家庭成员,亲属,种,类,族 v. 私奔"
+        ]
+    },
+    {
+        "name": "parents",
+        "trans": [
+            "n. 父母,亲职"
+        ]
+    },
+    {
+        "name": "siblings",
+        "trans": [
+            "n. 兄弟姐妹"
+        ]
+    },
+    {
+        "name": "mother",
+        "trans": [
+            "n. 母亲,妈妈,母体,起源,产地 vt. 豢养,生产 a. 母亲的"
+        ]
+    },
+    {
+        "name": "father",
+        "trans": [
+            "n. 父亲,爸爸,始祖,鼻祖,神父 vt. 发明,当...的父亲 a. 祖先的"
+        ]
+    },
+    {
+        "name": "brother",
+        "trans": [
+            "n. 兄弟,同仁,教友"
+        ]
+    },
+    {
+        "name": "sister",
+        "trans": [
+            "n. 姐妹,护士,修女,女教徒,阿姨"
+        ]
+    },
+    {
+        "name": "bedroom",
+        "trans": [
+            "n. 卧室"
+        ]
+    },
+    {
+        "name": "kitchen",
+        "trans": [
+            "n. 厨房,炊具"
+        ]
+    },
+    {
+        "name": "living room",
+        "trans": [
+            "n. 起居室"
+        ]
+    },
+    {
+        "name": "bathroom",
+        "trans": [
+            "n. 浴室,盥洗室"
+        ]
+    },
+    {
+        "name": "dining room",
+        "trans": [
+            "n. 餐厅,食堂"
+        ]
+    },
+    {
+        "name": "garden",
+        "trans": [
+            "n. 花园,公园,园林,庭院,菜园 v. 办公楼周围种花草"
+        ]
+    },
+    {
+        "name": "pet",
+        "trans": [
+            "n. 宠物,宠儿,宠妾 a. 宠爱的,亲昵的"
+        ]
+    },
+    {
+        "name": "dog",
+        "trans": [
+            "n. 狗,卑鄙小人,家伙 vt. 尾随,跟踪 vi. 跟踪 a. 卑鄙的,丑恶的"
+        ]
+    },
+    {
+        "name": "cat",
+        "trans": [
+            "n. 猫,猫科动物,猫状的女人,老实人 vt. 捉弄"
+        ]
+    },
+    {
+        "name": "furniture",
+        "trans": [
+            "n. 家具,设备,附件"
+        ]
+    },
+    {
+        "name": "table",
+        "trans": [
+            "n. 桌子,餐桌,议事日程 vt. 擱置,提交讨论,对付 vi. 翻案 a. 不诚实的"
+        ]
+    },
+    {
+        "name": "food",
+        "trans": [
+            "n. 食物,食品,养料,食物总量"
+        ]
+    },
+    {
+        "name": "meal",
+        "trans": [
+            "n. 膳食,饭餐,一顿饭"
+        ]
+    },
+    {
+        "name": "breakfast",
+        "trans": [
+            "n. 早餐,早餐食物 vi. 吃早餐 vt. 供早餐"
+        ]
+    },
+    {
+        "name": "lunch",
+        "trans": [
+            "n. 午餐,便餐 vi. 吃午餐"
+        ]
+    },
+    {
+        "name": "dinner",
+        "trans": [
+            "n. 晚餐,正餐,宴会 vi. 吃晚餐"
+        ]
+    },
+    {
+        "name": "snack",
+        "trans": [
+            "n. 快餐,小吃,小餐,点心 vi. 吃点心 vt. 压断,咬断 a. 没重要的,便食的"
+        ]
+    },
+    {
+        "name": "fruit",
+        "trans": [
+            "n. 水果,果实,成果,效果"
+        ]
+    },
+    {
+        "name": "vegetable",
+        "trans": [
+            "n. 蔬菜,植物,植被,呆子 a. 植物的,蔬菜的"
+        ]
+    },
+    {
+        "name": "bread",
+        "trans": [
+            "n. 面包,生计,生活 vt. 喂养,供给食物,赚钱"
+        ]
+    },
+    {
+        "name": "rice",
+        "trans": [
+            "n. 米,饭,米饭,稻 vt. 使吃干饭,使成稻 a. 稻的,稻菽的"
+        ]
+    },
+    {
+        "name": "pasta",
+        "trans": [
+            "n. 意大利面食,通心粉,面团"
+        ]
+    },
+    {
+        "name": "meat",
+        "trans": [
+            "n. 肉,肉体 vt. 弄脏,吃兽肉 vi. 进食"
+        ]
+    },
+    {
+        "name": "chicken",
+        "trans": [
+            "n. 鸡肉,小鸡,鸡肉菜 vt. 使变老实"
+        ]
+    },
+    {
+        "name": "fish",
+        "trans": [
+            "n. 鱼,渔 vt. 以网捕鱼 vi. 捕鱼"
+        ]
+    },
+    {
+        "name": "cheese",
+        "trans": [
+            "n. 干酪,乳制品,充数 vt. 用奶酪覆盖,把...亵渎 vi. 出卖"
+        ]
+    },
+    {
+        "name": "milk",
+        "trans": [
+            "n. 牛奶,乳汁 vt. 挤奶,喂养 vi. 放牧"
+        ]
+    },
+    {
+        "name": "water",
+        "trans": [
+            "n. 水,雨水,汗水,液体 vt. 浇水,使湿,潑...水于 vi. 流口水"
+        ]
+    },
+    {
+        "name": "juice",
+        "trans": [
+            "n. 汁,液汁,精华,性欲 vt. 把...榨汁"
+        ]
+    },
+    {
+        "name": "coffee",
+        "trans": [
+            "n. 咖啡,咖啡色 vi. 喝咖啡"
+        ]
+    },
+    {
+        "name": "tea",
+        "trans": [
+            "n. 茶,茶叶,茶点,茶会,茶文化 vi. 喝茶,泡茶 vt. 泡(茶) a. 茶的"
+        ]
+    },
+    {
+        "name": "dessert",
+        "trans": [
+            "n. 甜点,甜食,餐后甜点"
+        ]
+    },
+    {
+        "name": "cake",
+        "trans": [
+            "n. 蛋糕,块状物,果饼 vt. 结块"
+        ]
+    },
+    {
+        "name": "chocolate",
+        "trans": [
+            "n. 巧克力,巧克力糖,巧克力色 vt. 涂巧克力色于"
+        ]
+    },
+    {
+        "name": "restaurant",
+        "trans": [
+            "n. 饭馆,餐馆"
+        ]
+    },
+    {
+        "name": "menu",
+        "trans": [
+            "n. 菜单,餐单,食谱,计划表"
+        ]
+    },
+    {
+        "name": "chef",
+        "trans": [
+            "n. 厨师,主厨"
+        ]
+    },
+    {
+        "name": "recipe",
+        "trans": [
+            "n. 食谱,处方,秘诀 vt. 定制,安排 vi. 调配食物"
+        ]
+    },
+    {
+        "name": "cooking",
+        "trans": [
+            "n. 烹调,烧烤,烹饪法 a. 烹调的"
+        ]
+    },
+    {
+        "name": "ingredients",
+        "trans": [
+            "n. 原料,材料,成分"
+        ]
+    },
+    {
+        "name": "spices",
+        "trans": [
+            "n. 香料,调味品 vt. 加香料于,使增色"
+        ]
+    },
+    {
+        "name": "wake up",
+        "trans": [
+            "醒来"
+        ]
+    },
+    {
+        "name": "sleep",
+        "trans": [
+            "n. 睡眠,睡觉,休息 vt. 睡觉,使入睡 vi. 睡"
+        ]
+    },
+    {
+        "name": "brush teeth",
+        "trans": [
+            "刷牙"
+        ]
+    },
+    {
+        "name": "take a shower",
+        "trans": [
+            "淋浴"
+        ]
+    },
+    {
+        "name": "exercise",
+        "trans": [
+            "n. 锻炼,练习,练兵,运动,演习 vi. 锻炼,练习,训练 vt. 锻炼,练习"
+        ]
+    },
+    {
+        "name": "go to work",
+        "trans": [
+            "去上班"
+        ]
+    },
+    {
+        "name": "study",
+        "trans": [
+            "n. 学习,研究,用功 vt. 学,学习,研究,考虑 vi. 用功,研究,学习"
+        ]
+    },
+    {
+        "name": "read",
+        "trans": [
+            "n. 阅读,读物,读法 vt. 读,看懂,算出 vi. 阅读"
+        ]
+    },
+    {
+        "name": "watch TV",
+        "trans": [
+            "看电视"
+        ]
+    },
+    {
+        "name": "listen to music",
+        "trans": [
+            "听音乐"
+        ]
+    },
+    {
+        "name": "cook",
+        "trans": [
+            "n. 厨师,炊事员 vt. 做饭,烹饪 vi. 做饭"
+        ]
+    },
+    {
+        "name": "clean",
+        "trans": [
+            "n. 清洁,清扫 vt. 打扫,使清洁 vi. 打扫"
+        ]
+    },
+    {
+        "name": "shopping",
+        "trans": [
+            "n. 购物,购物物品"
+        ]
+    },
+    {
+        "name": "walk",
+        "trans": [
+            "n. 步行,散步,遛 vt. 走路,陪着走 vi. 走,步行,散步"
+        ]
+    },
+    {
+        "name": "run",
+        "trans": [
+            "n. 奔跑,疾走,经营 vi. 奔跑,走,经营 vt. 赛跑,追赶,支配 a. 经营的"
+        ]
+    },
+    {
+        "name": "play",
+        "trans": [
+            "n. 游戏,比赛,剧本,嬉耍,出牌 vi. 玩,进行比赛 vt. 演奏,玩耍,扮演 a. 游戏的"
+        ]
+    },
+    {
+        "name": "relax",
+        "trans": [
+            "vi. 松弛,休息,嬉戏 vt. 使松弛,使休息"
+        ]
+    },
+    {
+        "name": "hike",
+        "trans": [
+            "n. 徒步旅行,健行 vi. 徒步旅行,长途跋涉 vt. 提高,使高涨"
+        ]
+    },
+    {
+        "name": "travel",
+        "trans": [
+            "n. 旅行,游历,游客 vi. 旅行,游历,传播 vt. 旅行,传播"
+        ]
+    },
+    {
+        "name": "commute",
+        "trans": [
+            "n. 通勤者,通勤 v. 乘车上下班,交换 vi. 交换,折算"
+        ]
+    },
+    {
+        "name": "drive",
+        "trans": [
+            "n. 驱动,车程,路 vi. 驾驶,行驶,驱动 vt. 驾驶,强迫,传动 a. 被动式的"
+        ]
+    },
+    {
+        "name": "bike",
+        "trans": [
+            "n. 自行车 vi. 骑自行车"
+        ]
+    },
+    {
+        "name": "meet friends",
+        "trans": [
+            "会见朋友"
+        ]
+    },
+    {
+        "name": "plan",
+        "trans": [
+            "n. 计划,规划,平面,平面图 vt. 计划,设计,计划 vi. 计划,安排"
+        ]
+    },
+    {
+        "name": "schedule",
+        "trans": [
+            "n. 时间表,进度表,日程表,调度表 vt. 安排,预定,排定 vi. 安排时间"
+        ]
+    },
+    {
+        "name": "store",
+        "trans": [
+            "n. 商店,贮藏,仓库,商号 vt. 贮藏,储存,保存,经销,供给 vi. 贮备"
+        ]
+    },
+    {
+        "name": "mall",
+        "trans": [
+            "n. 商场,林荫道"
+        ]
+    },
+    {
+        "name": "clothes",
+        "trans": [
+            "n. 衣服,服装 vt. 为...穿衣 vi. 穿衣服"
+        ]
+    },
+    {
+        "name": "shoes",
+        "trans": [
+            "n. 鞋,似鞋之物"
+        ]
+    },
+    {
+        "name": "groceries",
+        "trans": [
+            "n. 食品杂货"
+        ]
+    },
+    {
+        "name": "cart",
+        "trans": [
+            "n. 手推车,台车,电车,敞篷马车 vt. 用推车装载,用车子搬 vi. 装载于车,用车装运货"
+        ]
+    },
+    {
+        "name": "cash",
+        "trans": [
+            "n. 现金,现款,钱,交换钱,出纳员 vt. 兑现,付现款 a. 货币的"
+        ]
+    },
+    {
+        "name": "credit card",
+        "trans": [
+            "信用卡"
+        ]
+    },
+    {
+        "name": "discount",
+        "trans": [
+            "n. 折扣,打折扣,贴现,削价款 vt. 减价,打折扣 a. 打折扣的"
+        ]
+    },
+    {
+        "name": "sale",
+        "trans": [
+            "n. 出售,拍卖,削价,销售,销售额 a. 出售的,卖的 vi. 出售"
+        ]
+    },
+    {
+        "name": "receipt",
+        "trans": [
+            "n. 收到,接到,收条,收据,收到之物 vt. 收到,接到"
+        ]
+    },
+    {
+        "name": "price",
+        "trans": [
+            "n. 价格,代价,价值,奖赏 vt. 为...定价,估价 vi. 竞标"
+        ]
+    },
+    {
+        "name": "size",
+        "trans": [
+            "n. 大小,尺码,容积 vt. 使适合"
+        ]
+    },
+    {
+        "name": "try on",
+        "trans": [
+            "试穿"
+        ]
+    },
+    {
+        "name": "pay",
+        "trans": [
+            "n. 工资,薪金,工资款 vt. 付款,支付,应付 vi. 支付,补偿"
+        ]
+    },
+    {
+        "name": "shopkeeper",
+        "trans": [
+            "n. 商店老板"
+        ]
+    },
+    {
+        "name": "brand",
+        "trans": [
+            "n. 牌子,商标,焦点 vt. 打商标于,使有特种,铭刻 a. 牌子的"
+        ]
+    },
+    {
+        "name": "purchase",
+        "trans": [
+            "n. 购买,购买之物,购置 vt. 买,购买,获得"
+        ]
+    },
+    {
+        "name": "customer",
+        "trans": [
+            "n. 顾客,主顾,顾主,商店"
+        ]
+    },
+    {
+        "name": "return",
+        "trans": [
+            "n. 返回,归还,退还,响应,利润,還本,回报 vi. 返回,还,恢复,倒退 vt. 返回,还,提交"
+        ]
+    },
+    {
+        "name": "change",
+        "trans": [
+            "n. 改变,零钱,找零 vt. 改变,零钱,更换,兑换 vi. 改变,更换,变"
+        ]
+    },
+    {
+        "name": "bargain",
+        "trans": [
+            "n. 交易,契约,便宜货 vi. 讲价,成交 vt. 讨价还价"
+        ]
+    },
+    {
+        "name": "shelf",
+        "trans": [
+            "n. 架子,搁板,搁物架,平台"
+        ]
+    },
+    {
+        "name": "shopping list",
+        "trans": [
+            "购物清单"
+        ]
+    },
+    {
+        "name": "window shopping",
+        "trans": [
+            "逛商店,看橱窗"
+        ]
+    },
+    {
+        "name": "health",
+        "trans": [
+            "n. 健康,卫生,健康状况,卫生状况"
+        ]
+    },
+    {
+        "name": "doctor",
+        "trans": [
+            "n. 医生,博士,博士学位 vt. 诊治,装医生"
+        ]
+    },
+    {
+        "name": "nurse",
+        "trans": [
+            "n. 护士,保姆,奶妈 vt. 照料,奶食 vi. 看护"
+        ]
+    },
+    {
+        "name": "hospital",
+        "trans": [
+            "n. 医院,诊疗所,收容所,拘留所"
+        ]
+    },
+    {
+        "name": "medicine",
+        "trans": [
+            "n. 药,医学,内服药 vt. 治疗,医治,以药物医治 vi. 医治,服药"
+        ]
+    },
+    {
+        "name": "prescription",
+        "trans": [
+            "n. 处方,药方,指示,规定 vt. 开处方,规定"
+        ]
+    },
+    {
+        "name": "sick",
+        "trans": [
+            "a. 生病的,恶心的,厌烦的 n. 呕吐物 vi. 呕吐"
+        ]
+    },
+    {
+        "name": "healthy",
+        "trans": [
+            "a. 健康的,有益健康的"
+        ]
+    },
+    {
+        "name": "exercise",
+        "trans": [
+            "n. 锻炼,练习,练兵,运动,演习 vi. 锻炼,练习,训练 vt. 锻炼,练习"
+        ]
+    },
+    {
+        "name": "diet",
+        "trans": [
+            "n. 饮食,食物,日常饮食,食俗 vi. 节食,按规定进食 vt. 系统地限制饮食"
+        ]
+    },
+    {
+        "name": "allergy",
+        "trans": [
+            "n. 过敏,对某物过敏"
+        ]
+    },
+    {
+        "name": "temperature",
+        "trans": [
+            "n. 温度,体温,气温,热度,热情,温度计"
+        ]
+    },
+    {
+        "name": "headache",
+        "trans": [
+            "n. 头痛,头痛的事"
+        ]
+    },
+    {
+        "name": "pain",
+        "trans": [
+            "n. 疼痛,痛苦,苦恼 vt. 使痛苦,伤害 vi. 疼痛"
+        ]
+    },
+    {
+        "name": "cough",
+        "trans": [
+            "n. 咳嗽 vi. 咳嗽"
+        ]
+    },
+    {
+        "name": "fever",
+        "trans": [
+            "n. 发热,狂热,热病 vt. 使发热"
+        ]
+    },
+    {
+        "name": "appointment",
+        "trans": [
+            "n. 约会,任命,约定,约会会见"
+        ]
+    },
+    {
+        "name": "pharmacy",
+        "trans": [
+            "n. 药房,药剂学,药剂学研究所,药物学"
+        ]
+    },
+    {
+        "name": "bandage",
+        "trans": [
+            "n. 绷带,包扎 vt. 用绷带包扎,包扎"
+        ]
+    },
+    {
+        "name": "first aid",
+        "trans": [
+            "n. 急救,紧急处理,急救箱,预防事故的纠正措施"
+        ]
+    },
+    {
+        "name": "car",
+        "trans": [
+            "n. 汽车,车辆,车带货栈 vi. 开车 vt. 运送"
+        ]
+    },
+    {
+        "name": "bus",
+        "trans": [
+            "n. 公共汽车,总线 vi. 乘公共汽车 vt. 送交 vi. 用公共汽车运送"
+        ]
+    },
+    {
+        "name": "bicycle",
+        "trans": [
+            "n. 自行车 vi. 骑自行车"
+        ]
+    },
+    {
+        "name": "train",
+        "trans": [
+            "n. 火车,列车,一串 vt. 训练,培养 vi. 训练,培训,游览"
+        ]
+    },
+    {
+        "name": "subway",
+        "trans": [
+            "n. 地铁"
+        ]
+    },
+    {
+        "name": "taxi",
+        "trans": [
+            "n. 出租汽车 vi. 乘出租汽车"
+        ]
+    },
+    {
+        "name": "plane",
+        "trans": [
+            "n. 飞机,平面,刨床 a. 平的,单层的 vi. 飞行,刨削"
+        ]
+    },
+    {
+        "name": "airport",
+        "trans": [
+            "n. 机场"
+        ]
+    },
+    {
+        "name": "traffic",
+        "trans": [
+            "n. 交通,交通量,交通线 vi. 买卖,做生意 vt. 交换,销售"
+        ]
+    },
+    {
+        "name": "driver",
+        "trans": [
+            "n. 驾驶员,司机,驱动程序"
+        ]
+    },
+    {
+        "name": "passengers",
+        "trans": [
+            "n. 旅客,乘客,乘员"
+        ]
+    },
+    {
+        "name": "ticket",
+        "trans": [
+            "n. 票,券,纸币,卡票 vt. 发票,吃的 n. 选票"
+        ]
+    },
+    {
+        "name": "destination",
+        "trans": [
+            "n. 目的地,终点站,目标"
+        ]
+    },
+    {
+        "name": "road",
+        "trans": [
+            "n. 路,道路,大路,方法,途径 a. 公路的,道路的"
+        ]
+    },
+    {
+        "name": "street",
+        "trans": [
+            "n. 街道,街 vt. 打败,行贿,穿街过巷 a. 街道的"
+        ]
+    },
+    {
+        "name": "parking",
+        "trans": [
+            "n. 停车,停车处 a. 停车的"
+        ]
+    },
+    {
+        "name": "walk",
+        "trans": [
+            "n. 步行,散步,遛 vt. 走路,陪着走 vi. 走,步行,散步"
+        ]
+    },
+    {
+        "name": "map",
+        "trans": [
+            "n. 地图,图,天体图 vt. 绘制地图"
+        ]
+    },
+    {
+        "name": "speed",
+        "trans": [
+            "n. 速度,快,迅速,高速公路,风速 vt. 加速,使加快 vi. 加速"
+        ]
+    },
+    {
+        "name": "license",
+        "trans": [
+            "n. 许可证,执照,特许 vt. 批准,准许,让渡"
+        ]
+    },
+    {
+        "name": "job",
+        "trans": [
+            "n. 工作,任务,职责,差使,工作机会 vi. 工作,创造工作,雇佣"
+        ]
+    },
+    {
+        "name": "office",
+        "trans": [
+            "n. 办公室,事务,服务处,职务 a. 办公的,官员的"
+        ]
+    },
+    {
+        "name": "boss",
+        "trans": [
+            "n. 老板,上司,首领 vt. 命令,向...发号施令 vi. 发号施令"
+        ]
+    },
+    {
+        "name": "colleague",
+        "trans": [
+            "n. 同事,同僚"
+        ]
+    },
+    {
+        "name": "meeting",
+        "trans": [
+            "n. 会议,相会,汇合点 a. 集会的,汇合的,相会的"
+        ]
+    },
+    {
+        "name": "email",
+        "trans": [
+            "n. 电子邮件 vt. 给...发电子邮件"
+        ]
+    },
+    {
+        "name": "deadline",
+        "trans": [
+            "n. 截止日期,最后期限"
+        ]
+    },
+    {
+        "name": "salary",
+        "trans": [
+            "n. 工资,薪金,薪水 vt. 给...薪金"
+        ]
+    },
+    {
+        "name": "promotion",
+        "trans": [
+            "n. 提升,晋级,促进"
+        ]
+    },
+    {
+        "name": "resume",
+        "trans": [
+            "n. 摘要,履历 vi. 重新开始,继续"
+        ]
+    },
+    {
+        "name": "interview",
+        "trans": [
+            "n. 面试,采访 vt. 采访,审问,面试"
+        ]
+    },
+    {
+        "name": "employee",
+        "trans": [
+            "n. 雇员,员工,受雇者"
+        ]
+    },
+    {
+        "name": "company",
+        "trans": [
+            "n. 公司,商号,团体,陪伴"
+        ]
+    },
+    {
+        "name": "business",
+        "trans": [
+            "n. 商业,生意,交易,业务,职责,事情 a. 商业的,生意的,贸易的"
+        ]
+    },
+    {
+        "name": "project",
+        "trans": [
+            "n. 项目,工程,规划,事业,工程案,计划书 vt. 计划,规划"
+        ]
+    },
+    {
+        "name": "task",
+        "trans": [
+            "n. 任务,作业,工作 vt. 给...任务"
+        ]
+    },
+    {
+        "name": "career",
+        "trans": [
+            "n. 生涯,职业,经历,经历的事 vi. 继续进行,猛冲"
+        ]
+    },
+    {
+        "name": "workload",
+        "trans": [
+            "n. 工作负荷,工作量,工作任务"
+        ]
+    },
+    {
+        "name": "workaholic",
+        "trans": [
+            "n. 工作狂,对工作痴迷的人"
+        ]
+    },
+    {
+        "name": "lunch break",
+        "trans": [
+            "午餐休息时间"
+        ]
+    },
+    {
+        "name": "movie",
+        "trans": [
+            "n. 电影,电影院,电影片 vt. 拍电影"
+        ]
+    },
+    {
+        "name": "theater",
+        "trans": [
+            "n. 剧场,戏院,电影院,映画 vi. 出演"
+        ]
+    },
+    {
+        "name": "music",
+        "trans": [
+            "n. 音乐,乐曲,乐谱,音响 vi. 制作音乐,演奏音乐"
+        ]
+    },
+    {
+        "name": "concert",
+        "trans": [
+            "n. 音乐会,合奏,一齐 vi. 商订 vt. 商订,协同进行"
+        ]
+    },
+    {
+        "name": "art",
+        "trans": [
+            "n. 艺术,美术,技巧,技能,人文科学"
+        ]
+    },
+    {
+        "name": "painting",
+        "trans": [
+            "n. 绘画,绘图,油画,漆,上色层 a. 爱好绘画的,上色的"
+        ]
+    },
+    {
+        "name": "dance",
+        "trans": [
+            "n. 舞蹈,舞会,舞曲 vi. 跳舞,起舞 vt. 跳舞"
+        ]
+    },
+    {
+        "name": "video games",
+        "trans": [
+            "电子游戏"
+        ]
+    },
+    {
+        "name": "hobbies",
+        "trans": [
+            "n. 嗜好,爱好"
+        ]
+    },
+    {
+        "name": "reading",
+        "trans": [
+            "n. 读,读书,文学作品,阅读物 a. 阅读的"
+        ]
+    },
+    {
+        "name": "book",
+        "trans": [
+            "n. 书,本,账簿,卷,簿 vt. 预订,登记 vi. 预定"
+        ]
+    },
+    {
+        "name": "magazine",
+        "trans": [
+            "n. 杂志,弹仓,弹匣"
+        ]
+    },
+    {
+        "name": "chess",
+        "trans": [
+            "n. 国际象棋,棋牌比赛,老年棋类游戏,老年人"
+        ]
+    },
+    {
+        "name": "puzzles",
+        "trans": [
+            "n. 难题,谜 vi. 迷惑,迷住,破脑筋"
+        ]
+    },
+    {
+        "name": "party",
+        "trans": [
+            "n. 党,党派,党员,党徽,聚会 a. 党派的 vi. 参加社交活动"
+        ]
+    },
+    {
+        "name": "celebration",
+        "trans": [
+            "n. 庆祝,庆典,典礼"
+        ]
+    },
+    {
+        "name": "festival",
+        "trans": [
+            "n. 节日,宗教节日,欢宴节 vi. 庆祝,节日欢宴"
+        ]
+    }
+]
